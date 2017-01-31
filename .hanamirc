@@ -1,0 +1,4 @@
+project=confoo2017_jsonapi
+architecture=container
+test=minitest
+template=erb
